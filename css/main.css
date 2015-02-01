@@ -1,0 +1,21 @@
+body {
+	background-color:#e9d7e4;
+}
+
+@media (max-width:1079px) {
+	body {
+		background-color:#b47a8e;
+	}
+}
+
+@media (max-width:549px) {
+	body {
+		background-color:#663b59;
+	}
+}
+
+@media (max-width:399px) {
+	body {
+		background-color:#a0849c;
+	}
+}
